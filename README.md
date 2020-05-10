@@ -10,10 +10,10 @@ To run this project you should have python interpeter installed on your device, 
 pip install pyttsx3
 ```
 
-* To install `pythonwin` use the command below
+* To install `pywin32` use the command below
 
 ```terminal
-pip install pythonwin
+pip install pywin32
 ```
 
 After doing this it's ok to download the project and run the code
@@ -28,9 +28,9 @@ The idea of this project is very simple, in Egypt we have 2 classes of trains. S
 
 These images will illustrate everything
 
-|First|Second|
-|--------|-------|
-|<img src=".\first.jpg" height = 400/> |<img src=".\second.jpg" height = 400/>|
+| First                                      | Second                                      |
+| ------------------------------------------ | ------------------------------------------- |
+| <img src="images\first.jpg" height = 400/> | <img src="images\second.jpg" height = 400/> |
 
 ***
 

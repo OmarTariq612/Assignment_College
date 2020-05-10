@@ -30,7 +30,7 @@ These images will illustrate everything
 
 |First|Second|
 |--------|-------|
-|<img src=".\first.jpg" height = 400/> |<img src=".\second.jpg" height = 400/>|
+|<img src="images\first.jpg" height = 400/> |<img src="images\second.jpg" height = 400/>|
 
 ***
 

@@ -37,3 +37,8 @@ These images will illustrate everything
 ***
 
 This project is a part of an assignment at the Faculty of Engineering , Minya University ,You can check the website from [here](https://www.minia.edu.eg/eng/ "Minya Engineering")
+
+| Name                   | Job            | Email               |
+| :--------------------: | :------------: | :-----------------: |
+| Dr. Hassan A. Alansary | Professor      | h_ali_h@yahoo.com   |
+| Omar Tariq             | Student        | az2339913@gmail.com |

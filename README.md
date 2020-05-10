@@ -30,8 +30,8 @@ The idea of this project is very simple, in Egypt we have 2 classes of trains. S
 
 These images will illustrate everything
 
-| First                                      | Second                                      |
-| ------------------------------------------ | ------------------------------------------- |
+| First Class                                | Second Class                                |
+| :----------------------------------------: | :-----------------------------------------: |
 | <img src="images\first.jpg" height = 400/> | <img src="images\second.jpg" height = 400/> |
 
 ***

@@ -50,7 +50,7 @@ if ticketType.isnumeric() and seatNumber.isnumeric():
             speech('Enter a valid seat number at maximum 47 for the first class')
 
     else:
-        speech('please enter a valid ticket type (1/2) only')
+        speech('please enter a valid ticket type 1 or 2 only')
 
 else:
     speech("Please enter valid values")

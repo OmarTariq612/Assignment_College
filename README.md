@@ -1,7 +1,6 @@
 # **College Assignment (Train Seat Number)**
 
-<div style="text-align: center"><img src="images/college.jpeg" width="150"/>
-</div>
+<img src="images/college.jpeg" width="150"/>
 
 ## **The requirements**
 

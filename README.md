@@ -1,5 +1,8 @@
 # **College Assignment (Train Seat Number)**
 
+<div style="text-align: center"><img src="images/college.jpeg" width="150"/>
+</div>
+
 ## **The requirements**
 
 To run this project you should have python interpeter installed on your device, you can download the latest version from [here](https://www.python.org/downloads/ "Download Python"), also you should use `pip` to install the required packages for this project you just need to put these commands on the terminal

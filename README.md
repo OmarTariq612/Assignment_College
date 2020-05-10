@@ -10,10 +10,10 @@ To run this project you should have python interpeter installed on your device, 
 pip install pyttsx3
 ```
 
-* To install `pythonwin` use the command below
+* To install `pywin32` use the command below
 
 ```terminal
-pip install pythonwin
+pip install pywin32
 ```
 
 After doing this it's ok to download the project and run the code

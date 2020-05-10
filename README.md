@@ -34,4 +34,4 @@ These images will illustrate everything
 
 ***
 
-This project is a part of an assignment at the Faculy of Engineering , Minya University ,You can check the website from [here](https://www.minia.edu.eg/eng/ "Minya Engineering")
+This project is a part of an assignment at the Faculty of Engineering , Minya University ,You can check the website from [here](https://www.minia.edu.eg/eng/ "Minya Engineering")

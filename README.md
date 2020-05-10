@@ -28,15 +28,9 @@ The idea of this project is very simple, in Egypt we have 2 classes of trains. S
 
 These images will illustrate everything
 
-<<<<<<< HEAD
 | First                                      | Second                                      |
 | ------------------------------------------ | ------------------------------------------- |
 | <img src="images\first.jpg" height = 400/> | <img src="images\second.jpg" height = 400/> |
-=======
-|First|Second|
-|--------|-------|
-|<img src="images\first.jpg" height = 400/> |<img src="images\second.jpg" height = 400/>|
->>>>>>> 761c12a38cdb9420562401cbf43949aa385aeec4
 
 ***
 

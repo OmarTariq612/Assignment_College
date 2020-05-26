@@ -1,3 +1,10 @@
+"""
+This program is a part of a project in the Faculty of Engineering at Minia Universiy.
+Author : Omar Tariq Abd El-Raziq
+Prof. : Dr. Hassan A. Alansary
+Department : Systems and Computers 
+"""
+
 # Having the ticket type from the user
 ticketType = input('Enter your ticket type (1/2) : ')
 # Having the seat number from the user

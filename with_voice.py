@@ -1,8 +1,14 @@
+"""
+This program is a part of a project in the Faculty of Engineering at Minia Universiy.
+Author : Omar Tariq Abd El-Raziq
+Prof. : Dr. Hassan A. Alansary
+Department : Systems and Computers 
+"""
+
 import pyttsx3
 
 engine = pyttsx3.init()
 engine.setProperty('rate', 150)
-
 
 def speech(text):
     engine.say(text)

@@ -2,7 +2,7 @@
 This program is a part of a project in the Faculty of Engineering at Minia Universiy.
 Author : Omar Tariq Abd El-Raziq
 Prof. : Dr. Hassan A. Alansary
-Department : Systems and Computers 
+Department : Systems and Computers Engineering
 """
 
 # Having the ticket type from the user
@@ -18,7 +18,7 @@ if ticketType.isnumeric() and seatNumber.isnumeric():
 
     if ticketType == 2:
         # making sure that the user hasn't entered an invalid seat number
-        if seatNumber <= 64:
+        if 0 < seatNumber <= 64:
             # calculating the remainder
             remainder = seatNumber % 4
 
@@ -31,7 +31,7 @@ if ticketType.isnumeric() and seatNumber.isnumeric():
 
     elif ticketType == 1:  # else if
         # making sure that the user hasn't entered an invalid seat number
-        if seatNumber <= 47:
+        if 0 < seatNumber <= 47:
             # calculating the remainder
             remainder = seatNumber % 3
 

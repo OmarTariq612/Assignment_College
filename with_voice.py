@@ -2,7 +2,7 @@
 This program is a part of a project in the Faculty of Engineering at Minia Universiy.
 Author : Omar Tariq Abd El-Raziq
 Prof. : Dr. Hassan A. Alansary
-Department : Systems and Computers 
+Department : Systems and Computers Engineering
 """
 
 import pyttsx3
@@ -29,7 +29,7 @@ if ticketType.isnumeric() and seatNumber.isnumeric():
 
     if ticketType == 2:
         # making sure that the user hasn't entered an invalid seat number
-        if seatNumber <= 64:
+        if 0 < seatNumber <= 64:
             # calculating the remainder
             remainder = seatNumber % 4
 
@@ -42,21 +42,17 @@ if ticketType.isnumeric() and seatNumber.isnumeric():
 
     elif ticketType == 1:  # else if
         # making sure that the user hasn't entered an invalid seat number
-        if seatNumber <= 47:
+        if 0 < seatNumber <= 47:
             # calculating the remainder
             remainder = seatNumber % 3
 
             if remainder == 0 or remainder == 1 or seatNumber == 47:
                 speech(f"Your seat number is {seatNumber} , you are beside a window")
-
             else:
                 speech(f"Your seat number is {seatNumber} , you are not beside a window")
-
         else:
             speech('Enter a valid seat number at maximum 47 for the first class')
-
     else:
         speech('please enter a valid ticket type 1 or 2 only')
-
 else:
     speech("Please enter valid values")
